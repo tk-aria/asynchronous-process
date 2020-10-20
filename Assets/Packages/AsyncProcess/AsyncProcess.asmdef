@@ -1,0 +1,15 @@
+{
+    "name": "AsyncProcess",
+    "references": [
+        "GUID:4e0344fa5dbdb41c59c6de9bd29e8e81"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,23 @@
+{
+    "name": "com.ariasdk.unity-async-process",
+    "version": "0.0.1",
+    "unity": "2018.3",
+    "displayName": "",
+    "description": "explanation",
+    "category": "Unity",
+    "keywords": [ "Unity", "async", "process"],
+    "dependencies": {
+        "com.ariasdk.unity-process-util": "0.0.1"
+    },
+    "samples": [
+        {
+            "displayName": "Example",
+            "description": "how to use.",
+            "path": "Samples~/Example"
+        }
+    ],
+    "author": {
+        "name": "tkaria",
+        "url": "https://tk3118.hatenablog.com"
+    }
+}
