@@ -1,3 +1,13 @@
+[*.json]
+root = true
+charset = utf-8-bom
+end_of_line = lf
+indent_style = space
+indent_size = 4
+tab_width = 4
+trim_trailing_whitespace = true
+insert_final_newline = false
+
 # reference: https://docs.microsoft.com/ja-jp/visualstudio/ide/editorconfig-code-style-settings-reference?view=vs-2017
 [*.{cs,vb}]
 root = true
