@@ -1,0 +1,22 @@
+{
+    "name": "com.ariasdk.unity-process-util",
+    "version": "0.0.1",
+    "unity": "2018.3",
+    "displayName": "",
+    "description": "explanation",
+    "category": "Unity",
+    "keywords": [ "Unity", "process"],
+    "dependencies": {
+    },
+    "samples": [
+        {
+            "displayName": "Example",
+            "description": "how to use.",
+            "path": "Samples~/Example"
+        }
+    ],
+    "author": {
+        "name": "tkaria",
+        "url": "https://tk3118.hatenablog.com"
+    }
+}

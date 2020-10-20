@@ -1,0 +1,19 @@
+{
+    "folders": [
+        {
+            "name": "async-process",
+            "path": "Assets/Packages"
+        },
+        {
+            "name": "test-project",
+            "path": "."
+        }
+    ],
+    "settings": {},
+    "extensions": {
+        "recommendations": [
+            "ms-dotnettools.csharp",
+            "unity.unity-debug"
+        ]
+    }
+}
