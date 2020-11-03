@@ -1,2 +1,2 @@
-# unity-async-process
+# async-process
 asynchronous cli process for unity.
